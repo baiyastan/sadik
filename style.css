@@ -15,3 +15,15 @@
     display: flex;
     gap: 24px;
 }
+
+.footer {
+    display: flex;
+    width: 1200px;
+    height: 120px;
+}
+
+.footer ul {
+    list-style: none;
+    display: flex;
+    gap: 12px;
+}
